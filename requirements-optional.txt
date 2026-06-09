@@ -1,0 +1,3 @@
+# Optional: enables SYN scan (-sS) and UDP scan (-sU)
+# Windows users also need Npcap: https://npcap.com
+scapy>=2.5.0
